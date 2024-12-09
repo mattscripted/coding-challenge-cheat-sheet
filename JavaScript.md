@@ -77,7 +77,3 @@ set.has(1);
 set.delete(1);
 set.size
 ```
-
----
-
-See also: [[Coding Challenges - Cheat Sheet]], [[GreatFrontend]]

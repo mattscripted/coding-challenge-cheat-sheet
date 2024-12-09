@@ -1,0 +1,7 @@
+# HTML Cheat Sheet
+
+## Forms
+Date input with `min` validation. Use YYYY-MM-DD format.
+```html
+<input type="date" value={yyyy-mm-dd} min={yyyy-mm-dd} />
+```
